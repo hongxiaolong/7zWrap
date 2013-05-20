@@ -80,6 +80,12 @@
   <ItemGroup>
     <ClCompile Include="Check in.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Library Include="Osn7zWrap.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="Osn7zWrap.obj" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

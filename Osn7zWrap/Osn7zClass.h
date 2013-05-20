@@ -4,7 +4,7 @@
 //Author: xiaolonginfo@github.com
 //https://github.com/xiaolonginfo/7zWrap.git
 //http://www.7-zip.org
-//7zWrap for file compression/decompress.							
+//Osn7zWrap for file compression/decompression.							
 //Modify 7z source code for 7z code/decode lib.
 //7z.dll	Osn7zWrap.lib	Osn7zWrap.h
 //************************************************
